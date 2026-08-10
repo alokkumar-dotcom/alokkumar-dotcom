@@ -1,102 +1,111 @@
----
-
 ## 👨‍💻 About Me
 
-```text
-🎓 B.Tech Computer Science & Engineering
-🏫 IIIT Kottayam
+<div align="center">
 
-💻 Full-Stack Development
-☕ Java + Spring Boot
-🌐 HTML + CSS + JavaScript
-🗄️ SQL + MySQL
+### 🎓 B.Tech CSE @ IIIT Kottayam
 
-📊 Data Analytics
-🐍 Python + Pandas + NumPy
-📈 Matplotlib + Power BI
+**Software Development • Data Analytics • Problem Solving**
 
-🧠 Data Structures & Algorithms
-🚀 Building practical projects
-```
+</div>
 
-I'm a **Computer Science & Engineering student at IIIT Kottayam** focused on becoming a strong software developer.
+I'm a **Computer Science & Engineering student at IIIT Kottayam** interested in building practical software and solving real-world problems with code.
 
-I enjoy building practical applications, solving programming problems, and working with data to extract useful insights.
+My current development focus is **Full-Stack Development**, with **Java, Spring Boot, JavaScript, SQL, and MySQL**. Alongside development, I work with **Python and data analytics** to clean, analyze, visualize, and communicate insights from data.
 
-Currently, I'm strengthening my skills in **Java, Spring Boot, JavaScript, SQL, Python, Data Structures & Algorithms, and Data Analytics**.
+I believe in learning by **building projects, solving problems, and continuously improving my fundamentals.**
 
----
+### 🚀 Current Focus
 
-## 🚀 What I'm Currently Doing
+<table>
+<tr>
+<td width="50%">
 
 ### 💻 Software Development
 
-- Learning **Java + Spring Boot**
-- Building REST APIs
-- Working with SQL & MySQL
-- Improving JavaScript skills
-- Building full-stack projects
-- Practicing DSA
+- Java & Spring Boot
+- REST API development
+- JavaScript
+- SQL & MySQL
+- Frontend development
+- Data Structures & Algorithms
+
+</td>
+
+<td width="50%">
 
 ### 📊 Data Analytics
 
-- Python for data analysis
+- Python
 - Pandas & NumPy
-- Data cleaning
+- Data Cleaning
 - Exploratory Data Analysis
-- Data visualization
-- Power BI dashboards
-- Statistical analysis
+- Matplotlib
+- Power BI
+- Statistical Analysis
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
 
 ### 🌐 Frontend
 
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
 ### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
 
 ### 🗄️ Database
 
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
 ### 📊 Data & Analytics
 
-`Pandas` · `NumPy` · `Matplotlib` · `Excel` · `Power BI`
+`Pandas` · `NumPy` · `Matplotlib` · `Excel` · `Power BI` · `SQL`
 
 ### 🔧 Tools
 
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---|---|---|
+| 🛒 **[Amazon Clone](https://github.com/alokkumar-dotcom/Amazon-clone)** | Responsive Amazon-inspired e-commerce frontend | `HTML` `CSS` `JavaScript` |
+| 📊 **[Data Analytics Portfolio](https://github.com/alokkumar-dotcom/alokkumar-DataAnalyst-Internship-Portfolio)** | Data cleaning, analysis, visualization & storytelling | `Python` `Pandas` `NumPy` `Matplotlib` |
+| 📈 **[ApexPlanet Task 1](https://github.com/alokkumar-dotcom/ApexPlanet-DataAnalytics-Task1)** | Data analytics internship project | `Python` `Pandas` `Visualization` |
+| 📊 **ApexPlanet Task 2** | Practical data analysis and insights | `Python` `Pandas` `Matplotlib` |
+
+</div>
 
 ### 🛒 Amazon Clone
 
-A responsive Amazon-inspired e-commerce frontend built using modern frontend fundamentals.
+A responsive e-commerce frontend created to strengthen my understanding of **HTML, CSS, JavaScript, UI structure, and responsive design**.
 
-**Tech**
-
-`HTML` `CSS` `JavaScript`
-
-### 📊 Data Analytics Projects
-
-Practical analytics work involving data cleaning, EDA, visualization, statistical validation and business storytelling.
-
-**Tech**
-
-`Python` `Pandas` `NumPy` `Matplotlib` `SQL` `Power BI`
-
----
-
-# 📈 GitHub Analytics
-
----
-
-# 📊 Contribution Activity
-
----
-
-# 🐍 Contribution Snake
+🔗 **[View Source Code](https://github.com/alokkumar-dotcom/Amazon-clone)**  
+🌐 **[Live Demo](https://alokkumar-dotcom.github.io/Amazon-clone/)**
 
 ---
 
@@ -104,14 +113,14 @@ Practical analytics work involving data cleaning, EDA, visualization, statistica
 
 ### 🚀 ApexPlanet Software Pvt. Ltd.
 
-**Data Analytics Internship**
+**Data Analytics Intern**
 
-Worked on practical data analytics tasks involving:
+Worked on practical analytics tasks involving:
 
-- Data preprocessing & cleaning
+- Data cleaning and preprocessing
 - Exploratory data analysis
+- Statistical analysis
 - Data visualization
-- Statistical hypothesis testing
 - Data storytelling
 - Business insights
 - Stakeholder presentation
@@ -122,10 +131,10 @@ Worked on practical data analytics tasks involving:
 
 **Technology Job Simulation**
 
-Worked on:
+Worked with:
 
-- Telemetry data processing
-- Python programming
+- Python
+- Telemetry data
 - Unit testing
 - Software development analysis
 - Technical proposal development
@@ -134,54 +143,67 @@ Worked on:
 
 # 🧠 Problem Solving
 
-I regularly practice **Data Structures & Algorithms** to improve my programming fundamentals and problem-solving ability.
-
-### Focus Areas
+I practice **Data Structures & Algorithms** to strengthen my programming fundamentals and problem-solving ability.
 
 `Arrays` · `Strings` · `Linked Lists` · `Stacks` · `Queues`
 
 `Trees` · `Graphs` · `Sorting` · `Searching` · `Recursion`
 
+<div align="center">
+
+<a href="https://leetcode.com/u/Its_alok/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/akv94xfq3">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
 ---
 
-# 🎯 Learning Roadmap
+# 📈 GitHub Analytics
 
-```text
-                    SOFTWARE ENGINEERING
-                            │
-              ┌─────────────┴─────────────┐
-              │                           │
-          FRONTEND                    BACKEND
-              │                           │
-       HTML • CSS • JS              Java • Spring
-              │                           │
-              └─────────────┬─────────────┘
-                            │
-                         REST APIs
-                            │
-                            ↓
-                       SQL • MySQL
-                            │
-                            ↓
-                    FULL-STACK PROJECTS
-                            │
-                            ↓
-                    DEPLOYMENT & DEVOPS
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alokkumar-dotcom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-                    DATA ANALYTICS
-                            │
-                   Python • SQL • Excel
-                            │
-                     Pandas • NumPy
-                            │
-                  EDA • Statistics
-                            │
-                 Matplotlib • Power BI
-                            │
-                            ↓
-                     BUSINESS INSIGHTS
-```
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkumar-dotcom&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=alokkumar-dotcom&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokkumar-dotcom&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alokkumar-dotcom/alokkumar-dotcom/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alokkumar-dotcom/alokkumar-dotcom/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/alokkumar-dotcom/alokkumar-dotcom/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
@@ -189,14 +211,41 @@ I regularly practice **Data Structures & Algorithms** to improve my programming 
 
 - 🎓 **Deloitte Australia Technology Job Simulation** — Forage
 - 📊 **ApexPlanet Data Analytics Internship**
-- 💻 Technical learning in Java, Python, SQL & Web Development
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:alok.kumar.official.ak@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/alok-kumar-b19a2835b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/alokkumar-dotcom">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Its_alok/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/akv94xfq3">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### ⚡ Learning → Building → Testing → Improving
+<div align="center">
 
-**Open to internships, collaborations, and opportunities to build real-world software.any improvement**
+### ⚡ Learn • Build • Solve • Improve
+
+**Open to internships, collaborations, and opportunities to build real-world software.**
+
+</div>
