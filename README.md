@@ -200,7 +200,7 @@ Practical analytics work involving data cleaning, EDA, visualization, statistica
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alokkumar-dotcom/alokkumar-dotcom/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/alokkumar-dotcom/alokkumar-dotcom/output/github-contribution-grid-snake.svg">
 
 </div>
 
